@@ -1,4 +1,4 @@
-# 📊✨Electronic Sales Insights
+# 📊Electronic Sales Insights✨
 
 ## Overview 💫
 
