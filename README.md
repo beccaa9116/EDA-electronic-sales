@@ -1,6 +1,6 @@
 # 📊 Electronic Sales Insights ✨
 
-## Overview 💫
+## Overview 🖥️
 
 This project focuses on conducting exploratory data analysis (EDA) on a dataset of electronic sales. The goal is to understand the key factors influencing sales performance and explore various trends within the data. The analysis uses descriptive statistics and visualizations to identify potential business insights.
 
