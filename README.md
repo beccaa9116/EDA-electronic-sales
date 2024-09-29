@@ -16,6 +16,6 @@ The dataset was cleaned to handle missing values and outliers. Unnecessary colum
 
 ## 🧮 Visualizations 
 
-- **Bar Charts**: Used for comparing sales across product categories and regions.
-- **Scatter Plots**: To examine relationships between price and sales volume.
-- **Box Plots**: To identify outliers and understand sales distribution within various categories.
+- **Bar Charts**: Used for comparing sales across product categories and regions
+- **Scatter Plots**: To examine relationships between price and sales volume
+- **Box Plots**: To identify outliers and understand sales distribution within various categories
