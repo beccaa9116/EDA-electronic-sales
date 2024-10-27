@@ -9,6 +9,7 @@ This project focuses on conducting exploratory data analysis (EDA) on a dataset 
 - **Product Category Analysis**: Certain product categories show significantly higher sales, indicating which product types are more popular among customers
 - **Sales by Age Group**: Data reveal age groups with varying demand
 - **Price and Sales**: Higher-priced products generally have lower sales volumes, while mid-priced products perform better, suggesting price sensitivity in consumer behavior
+(not completely finished yet)
 
 ## 🗂️ Data Cleaning and Processing 
 
